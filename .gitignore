@@ -11,4 +11,6 @@ runs
 a.out
 cache
 *.g2o
+lietorch_backends*
+lietorch_extras*
 
